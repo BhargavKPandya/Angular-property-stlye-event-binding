@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'vishwas-YouTube';
+  public nameFromApp = "Bhargavvvvv";
+  public message="";
 }
